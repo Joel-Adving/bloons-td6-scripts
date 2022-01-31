@@ -1,7 +1,3 @@
-# bloons-td6-scripts
-Node.js scripts/cheats for Bloons TD 6
-
-
 # Bloons TD6 Scripts
 
 Node.js scripts/cheats for Bloons TD 6
